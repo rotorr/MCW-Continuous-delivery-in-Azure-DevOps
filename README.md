@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/rgt3/c406e1b9-5eca-477f-997e-b4d1cce05ec0/fcad7f72-5cf9-4cc8-abfa-fd64a34078bd/_apis/work/boardbadge/0e4758e7-e1b2-438e-a783-ad5eb149f597)](https://dev.azure.com/rgt3/c406e1b9-5eca-477f-997e-b4d1cce05ec0/_boards/board/t/fcad7f72-5cf9-4cc8-abfa-fd64a34078bd/Microsoft.RequirementCategory)
 ## Microsoft Cloud Workshops - Retirement Survey  
 
 As we look to streamline content and improve training, we are considering retiring the Microsoft Cloud Workshop (MCW) program. Please take a moment to fill out the [Microsoft Cloud Workshop Survey](https://forms.office.com/r/834zwtaNtK) and give us your feedback.
